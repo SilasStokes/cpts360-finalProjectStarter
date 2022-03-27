@@ -10,3 +10,6 @@ LoOk MoM No ErRoRs
 
 This is by no means the correct way. Just the way my partner and I did it. I have no idea. I am not a professional. There is no implied warranty. If this bricks your computer all I have is condolences and my office hours (11-12p Sunday).
 
+## Common Problems:
+- If you're getting an error on INODE in type.h that says something like "incomplete type", just include `#include <ext2fs/ext2_fs.h>` at the top. 
+- If your computer isn't happy with that above include statement, try `sudo apt-get install e2fslibs-dev` to install the libraries.
