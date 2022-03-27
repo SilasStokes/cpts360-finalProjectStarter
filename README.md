@@ -8,5 +8,5 @@ LoOk MoM No ErRoRs
 - Added header guards to everything.
 - changed the bash script to compile with `gcc *.c`. 
 
-This is by no means the correct way. Just the way my partner and I did it. I have no idea. I am not a professional. There is no implied warranty. If this bricks your computer all I have is condolences. 
+This is by no means the correct way. Just the way my partner and I did it. I have no idea. I am not a professional. There is no implied warranty. If this bricks your computer all I have is condolences and my office hours (11-12p Sunday).
 
