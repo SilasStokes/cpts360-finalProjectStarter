@@ -1,4 +1,7 @@
-#include "cd_ls_pwd.h"
+#include "functions.h"
+
+
+
 /************* cd_ls_pwd.c file **************/
 int cd()
 {

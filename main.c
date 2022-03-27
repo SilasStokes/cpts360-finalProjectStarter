@@ -15,8 +15,7 @@
 // USR LIBS:
 #include "globals.h"
 #include "type.h"
-#include "util.h"
-#include "cd_ls_pwd.h"
+#include "functions.h"
 
 // forward declarations of funcs in main.c
 int init();
